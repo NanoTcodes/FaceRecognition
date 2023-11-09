@@ -7,7 +7,7 @@ import torch
 from PIL import Image
 
 # Importing student images
-folderPath ='trying_face\photos' 
+folderPath ='photos\photos' 
 pathList = os.listdir(folderPath)
 #print(pathList)#contains name or path of each image
 imgList = []
