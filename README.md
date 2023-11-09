@@ -1,5 +1,8 @@
 # FaceRecognition
 Installation Guide
+# project Description
+This project focuses on implementing face recognition using the RetinaFace algorithm for face detection. Face recognition is a biometric technology that identifies and verifies individuals based on their facial features. The RetinaFace algorithm is chosen for its accuracy and efficiency in detecting faces in images.
+
 
 # Prerequisites
 - Python 3.x installed
