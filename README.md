@@ -28,5 +28,6 @@ The user also needs to specify the date of the class for which attendance is bei
 # Output
 A csv file "attendance.csv" is maintained which will keep getting updated with every new attendance taken.
 
-#Deployment
+# Deployment
+
 We have deployed our project on Spaces https://huggingface.co/spaces/NanoT/FaceRecogAtt, you can go check it out.
